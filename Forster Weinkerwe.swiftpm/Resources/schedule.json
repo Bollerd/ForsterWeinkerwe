@@ -1,0 +1,48 @@
+[
+    {
+        "OverviewJSON": {
+            "date": "Donnerstag 3. August 2023","headline": "","rowsJSON": [
+                {"OverviewRowJSON": {"showImage": true,"systemName": "5.square.fill","text": "ab 17:30 | Aufschlag Tennisclub Forst"}}
+            ]
+        }
+    },
+    {
+        "OverviewJSON": {
+            "date": "Freitag 4. August 2023","headline": "ab 17:00 | Ausschankstellen geöffnet","rowsJSON": [
+                {"OverviewRowJSON": {"showImage": true,"systemName": "p.square.fill","text": "19:00 | Lagenkostbar goes Weinkerwe (Eintritt)"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "3.square.fill","text": "ab ca 20:00 | Juli Kwadwo LIVE Reggae&Jazz vibes"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "4.square.fill","text": "19:00 | Duo Knapper und Autz"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "5.square.fill","text": "ab ca. 19:30 | Los Desperados"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "6.square.fill","text": "DJ Kai"}}
+            ]
+        }
+    },
+    {
+        "OverviewJSON": {
+            "date": "Samstag 5. August 2023","headline": "ab 17:00 | Ausschankstellen geöffnet","rowsJSON": [
+                {"OverviewRowJSON": {"showImage": true,"systemName": "3.square.fill","text": "ab ca 20:00 | DJ Projekt B am Mischpult"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "4.square.fill","text": "19:00 | Livemusik"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "5.square.fill","text": "ab ca. 19:30 | Spätles'"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "6.square.fill","text": "DJ Kai"}}
+            ]
+        }
+    },
+    {
+        "OverviewJSON": {
+            "date": "Sonntag 6. August 2023","headline": "ab 11:00 | Ausschankstellen geöffnet","rowsJSON": [
+                {"OverviewRowJSON": {"showImage": true,"systemName": "3.square.fill","text": "ab ca 18:00 | Lorena Huber & Band LIVE"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "4.square.fill","text": "16:00 | Duo Knapper und Autz"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "6.square.fill","text": "DJ Leo"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "9.square.fill","text": "ab 12:00 | Blue Note Jazz Company"}}
+            ]
+        }
+    },
+    {
+        "OverviewJSON": {
+            "date": "Montag 7. August 2023","headline": "ab 17:00 | Ausschankstellen geöffnet","rowsJSON": [
+                {"OverviewRowJSON": {"showImage": true,"systemName": "7.square.fill","text": "offene WINECHANGES Verkostung"}},
+                {"OverviewRowJSON": {"showImage": true,"systemName": "9.square.fill","text": "ab 19:00 | The Bohemians"}}
+            ]
+        }
+    }
+]

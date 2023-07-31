@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swifthelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Bollerd/SwiftHelper.git",
+      "state" : {
+        "revision" : "bdafd4c927a57aff23ff6f601da492c1cfa4363e",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
